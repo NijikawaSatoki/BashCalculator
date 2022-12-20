@@ -14,5 +14,5 @@ For Arch & MSYS2 users:
 For Termux users:
 `$ apt update && apt install bc`
 ## Executing the script
-To execute the script, enter this into your terminal:
+To execute the script, enter this into your terminal (whilst inside the directory where you placed the script):
 `$ bash calc.sh`
